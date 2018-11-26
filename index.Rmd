@@ -4,6 +4,6 @@ author: "David Taylor"
 date: "26/11/2018"
 ---
 
-My personal website created using RStudio - This will host my CV etc...
+My personal website created using RStudio - This will host my [CV](CV.html)rendered from markdown and other things
 
 I am Currently looking for work.

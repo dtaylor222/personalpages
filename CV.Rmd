@@ -1,0 +1,72 @@
+---
+title: "CV"
+author: "David Taylor"
+date: "26/11/2018"
+output: html_document
+---
+Experienced in system integration, test and support of ERP and payroll systems. I have spent my career in commercial and technical roles. Skilled in training and presentation, I developed and delivered courses in various aspects of ERP reporting software. I have professional qualifications in software testing and Accounting.
+
+**Employment History**
+
+**Senior Support Analyst RedSkyIT 2008 - 2018**
+
+I worked on MENTOR and SUMMIT Construction focussed ERP products. I provided Managed Services to our clients, including operating system patches and maintenance, pro-active weekly quarterly and annual system reports. Additionally, as second line for the front desk analysts, I provided them with coaching and peer support. I also provided on-site training and consultancy as required to UK customers
+
+**Key Skills: Core Financial accounts** (Nominal, purchase, tax and bank ledgers), **Contract costing, Payroll, Subcontractors / CIS, Service management, Business Analysis, Crystal Reports, SQL, odbc, Microsoft Excel, UNIX, Windows, Software testing, Business Analysis.**
+
+**Project Work:**
+
+**2016 – Interfacing Web based service management system to MENTOR.** I worked on documenting then supporting interface tables and scripts. I created the report templates that generated the job tickets and invoices in the new system.
+
+**2015 - MENTOR data structures and reporting.** I was brought in to train crystal reports users from a customer&#39;s management accounts team in the correct use of MENTOR data structures and how to write simple SQL. I also reverse engineered, documented and re-wrote their management accounts spreadsheets via direct access using Microsoft query.
+
+**2014 – 4GL Interface Migration** I investigated and documented interfaces between the client&#39;s job costing scheme and our batch imports, identifying likely failure points and resolution paths for the customer for their migration to a Linux system
+
+**2012 – RTI changes** I worked with the development team on the statutory payroll changes and then ran the user group sessions and training materials.
+
+**2009 – Windows XP client retirement / odbc migration.** I worked with the user base on implementing the client changes and how to set up and replace their external reports in windows7.
+
+**Support Analyst RedSkyIT 2004 – 2008**
+
+**2008 – New CIS scheme testing and beta programme** I led the testing programme and ran the customer beta rollout and customer meetings for the substantial changes to subcontract order processing brought about by changes in the CIS scheme
+
+**2007 - Late payment charges Management Reports.** After a large SUMMIT service management customer had lost its in-house crystal expertise I worked with them to create their own direct reports to calculate interest charges from their invoicing system.
+
+**2006 - Summit Crystal Reports Training.** I assisted a medium sized house building company with their procurement system, training them how to create Crystal reports, and leaving them with a set of order forms that met their needs.
+
+**2005 - Crystal reports training programme and Using Excel with Summit Reporting,** I developed training courses for colleagues on the SUMMIT product&#39;s reporting mechanism and to use Crystal designer and Excel to write and modify standard reports.
+
+**Analyst/Programmer RedSkyIT 2001 - 2004**
+
+I joined the company as an analyst-programmer working on the MENTOR Enterprise construction focussed ERP application. Working as a member of the maintenance team, my primary role was bug fixing and defining requirements then writing customer funded enhancements.
+
+**Key Skills: Software development (C/SQL), databases, Business Analysis**
+
+**Projects:**
+
+**Inter-company divisionalisation** I reworked the intercompany posting routines to allow for divisionalisation of the general ledger in source and destination companies. **Electronic document storage and import** I wrote new interfaces for 3rd party high throughput document scanning and OCR software.
+
+**Product Test Engineer, (James Walker) Tiflex Ltd 1998 – 2001**
+
+I worked in the &#39;Trackelast&#39; &amp; &#39;TICO&#39; division (Railway and civil engineering anti vibration products) I was responsible for designing solutions, producing quotes and tenders and managing our export orders to delivery. I also represented the company at industry meetings. I commissioned and then run a &#39;test house&#39; facility. I developed test software using Excel VBA, reducing the company&#39;s dependence on MATLAB for mathematical modelling of engineering applications.
+
+**Key Skills: Commercial tendering, export management, Staff supervision, Physical testing, Excel/VBA, MATLAB**
+
+**Test &amp; Installation Engineer, Micromass (UK) Ltd.1995 - 1998**
+
+I was responsible for the factory commissioning and on-site installation (world-wide) of dozens of mass spectrometer systems and the associated chromatographic equipment, as well as providing user training and validation testing of the completed systems
+
+**Key Skills: Electronic fault finding to component level, LC/MS chemical analysis.**
+
+**Education**
+
+- Professional Certificate in Accounting, Open University 2012
+- Scientific Instrumentation, Manchester Metropolitan University 1995
+- (Hons) Paper Science, UMIST 1992
+
+**Other**
+
+- Database design &amp; Programming in SQL (Oracle Academy at City of Glasgow College) - 2018
+- ISEB Foundation Certificate in Software Test - 2004
+- City &amp; Guilds - Programming in C and Java - 2001
+- Full Clean UK Driving Licence
