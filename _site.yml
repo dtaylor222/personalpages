@@ -6,4 +6,12 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My Personal Webpage" 
+  title: "My Personal Webpage"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+  right:
+    - text: "CV"
+      href: CV.html
+    
