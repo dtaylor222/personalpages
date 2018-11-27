@@ -1,0 +1,32 @@
+---
+title: "linear model"
+author: "David Taylor"
+date: "27/11/2018"
+output: html_document
+---
+
+**Demonstrates simulating a linear model with some noise**
+
+```{r}
+set.seed(30) # for reproduceability
+x <- rnorm(100) # take 100 randomn samples from a normal distribution mean 0 sd 1 
+e <- rnorm(100,0,0.5) # and simulate some noise 
+y <- 4.5 + 2*x + e # intercept 4.5, gradient 2.0 add noise
+```
+
+So data set simulating a linear relationship with noise can be output:
+
+```{r, echo=FALSE}
+plot(x,y)
+```
+
+Now try to model y as a function of x
+
+```{r}
+z <- lm(y ~ x) 
+str(z) # shows whats in the model
+plot(x,y) # replot the variables
+abline(z$coefficients) # add the model's trendline
+```
+
+

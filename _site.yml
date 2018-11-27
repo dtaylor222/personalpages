@@ -14,4 +14,6 @@ navbar:
   right:
     - text: "CV"
       href: CV.html
+    - text: "linearmodel"
+      href: linearmodel.html
     
