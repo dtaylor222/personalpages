@@ -219,12 +219,12 @@ $(document).ready(function () {
 <pre class="r"><code>set.seed(30) # for reproduceability
 x &lt;- rnorm(100) # take 100 randomn samples from a normal distribution mean 0 sd 1 
 e &lt;- rnorm(100,0,0.5) # and simulate some noise 
-y &lt;- 4.5 + 2*x + e # intercept 4.5, gradient 2.0 add noise</code></pre>
-<p>So data set simulating a linear relationship with noise can be output:</p>
+y &lt;- 4.5 + 2*x + e # Creates data set intercept 4.5, gradient 2.0 add noise</code></pre>
+<p>Son now we have a data set ‘y’ simulating a linear relationship with x and added noise. This can be output form base ‘R’ as shown:</p>
 <p><img src="linearmodel_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
-<p>Now try to model y as a function of x</p>
+<p>Now we run a linear model (z) of y as a function of x</p>
 <pre class="r"><code>z &lt;- lm(y ~ x) 
-str(z) # shows whats in the model</code></pre>
+str(z) # shows us what R has in the model</code></pre>
 <pre><code>## List of 12
 ##  $ coefficients : Named num [1:2] 4.34 1.96
 ##   ..- attr(*, &quot;names&quot;)= chr [1:2] &quot;(Intercept)&quot; &quot;x&quot;
@@ -283,7 +283,7 @@ str(z) # shows whats in the model</code></pre>
 ##   .. .. .. ..- attr(*, &quot;names&quot;)= chr [1:2] &quot;y&quot; &quot;x&quot;
 ##  - attr(*, &quot;class&quot;)= chr &quot;lm&quot;</code></pre>
 <pre class="r"><code>plot(x,y) # replot the variables
-abline(z$coefficients) # add the model&#39;s trendline</code></pre>
+abline(z$coefficients) # add a line to plot to show the model&#39;s trendline</code></pre>
 <p><img src="linearmodel_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
 
 
