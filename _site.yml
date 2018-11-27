@@ -8,9 +8,9 @@ output:
 navbar:  
   title: "My Personal Webpage"
   left:
-    - text: "Home"
+    - text: "Repo"
       icon: fa-home
-      href: index.html
+      href: https://github.com/dtaylor222/personalpages
   right:
     - text: "CV"
       href: CV.html
