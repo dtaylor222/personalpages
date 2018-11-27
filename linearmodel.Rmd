@@ -14,8 +14,8 @@ e <- rnorm(100,0,0.5) # and simulate some noise
 y <- 4.5 + 2*x + e # Creates data set intercept 4.5, gradient 2.0 add noise
 ```
 
-Son now we have a data set 'y' simulating a linear relationship with x and added noise.
-This can be output form base 'R' as shown:
+So now we have a data set 'y' simulating a linear relationship with x with added noise.
+This can be output from base 'R' as shown:
 
 ```{r, echo=FALSE}
 plot(x,y)

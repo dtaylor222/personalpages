@@ -6,7 +6,7 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My Personal Webpage"
+  title: "My Personal Website"
   left:
     - text: "Repo"
       icon: fa-home
