@@ -18,9 +18,9 @@ I worked on MENTOR and SUMMIT Construction focussed ERP products. I provided Man
 
 **2016 – Interfacing Web based service management system to MENTOR.** I worked on documenting then supporting interface tables and scripts. I created the report templates that generated the job tickets and invoices in the new system.
 
-**2015 - MENTOR data structures and reporting.** I was brought in to train crystal reports users from a customer&#39;s management accounts team in the correct use of MENTOR data structures and how to write simple SQL. I also reverse engineered, documented and re-wrote their management accounts spreadsheets via direct access using Microsoft query.
+**2015 - MENTOR data structures and reporting.** I was brought in to train crystal reports users from a customer's management accounts team in the correct use of MENTOR data structures and how to write simple SQL. I also reverse engineered, documented and re-wrote their management accounts spreadsheets via direct access using Microsoft query.
 
-**2014 – 4GL Interface Migration** I investigated and documented interfaces between the client&#39;s job costing scheme and our batch imports, identifying likely failure points and resolution paths for the customer for their migration to a Linux system
+**2014 – 4GL Interface Migration** I investigated and documented interfaces between the client's job costing scheme and our batch imports, identifying likely failure points and resolution paths for the customer for their migration to a Linux system
 
 **2012 – RTI changes** I worked with the development team on the statutory payroll changes and then ran the user group sessions and training materials.
 
@@ -34,7 +34,7 @@ I worked on MENTOR and SUMMIT Construction focussed ERP products. I provided Man
 
 **2006 - Summit Crystal Reports Training.** I assisted a medium sized house building company with their procurement system, training them how to create Crystal reports, and leaving them with a set of order forms that met their needs.
 
-**2005 - Crystal reports training programme and Using Excel with Summit Reporting,** I developed training courses for colleagues on the SUMMIT product&#39;s reporting mechanism and to use Crystal designer and Excel to write and modify standard reports.
+**2005 - Crystal reports training programme and Using Excel with Summit Reporting,** I developed training courses for colleagues on the SUMMIT product's reporting mechanism and to use Crystal designer and Excel to write and modify standard reports.
 
 **Analyst/Programmer RedSkyIT 2001 - 2004**
 
@@ -48,7 +48,7 @@ I joined the company as an analyst-programmer working on the MENTOR Enterprise c
 
 **Product Test Engineer, (James Walker) Tiflex Ltd 1998 – 2001**
 
-I worked in the &#39;Trackelast&#39; &amp; &#39;TICO&#39; division (Railway and civil engineering anti vibration products) I was responsible for designing solutions, producing quotes and tenders and managing our export orders to delivery. I also represented the company at industry meetings. I commissioned and then run a &#39;test house&#39; facility. I developed test software using Excel VBA, reducing the company&#39;s dependence on MATLAB for mathematical modelling of engineering applications.
+I worked in the Trackelast and TICO division (Railway and civil engineering anti vibration products) I was responsible for designing solutions, producing quotes and tenders and managing our export orders to delivery. I also represented the company at industry meetings. I commissioned and then run a test house facility. I developed test software using Excel VBA, reducing the company's dependence on MATLAB for mathematical modelling of engineering applications.
 
 **Key Skills: Commercial tendering, export management, Staff supervision, Physical testing, Excel/VBA, MATLAB**
 
