@@ -25,9 +25,13 @@ Now we run a linear model (z) of y as a function of x
 
 ```{r}
 z <- lm(y ~ x) 
-str(z) # shows us what R has in the model
 plot(x,y) # replot the variables
 abline(z$coefficients) # add a line to plot to show the model's trendline
 ```
 
 
+For completeness lets take a look at the structure of the model: 
+
+```{r}
+str(z) # shows us what R has in the model
+```
