@@ -6,11 +6,11 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My Personal Website"
+  title: "David B. Taylor"
   left:
     - text: "Repo"
       icon: fa-home
-      href: https://github.com/dtaylor222/personalpages
+      href: index.html
   right:
     - text: "CV"
       href: CV.html
@@ -18,4 +18,8 @@ navbar:
       href: linearmodel.html
     - text: "Contact_Me"
       href: Contact_Me.html
+    - text: "Useful_Links"
+      href: Useful_Links.html
+    - text: "Repo"
+      href: https://github.com/dtaylor222/personalpages
     

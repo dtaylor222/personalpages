@@ -1,0 +1,9 @@
+---
+title: "Useful_Links"
+author: "David Taylor"
+date: "29/11/2018"
+output: html_document
+---
+
+Here a few links to resources that I have found useful: 
+
