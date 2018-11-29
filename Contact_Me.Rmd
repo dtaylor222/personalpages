@@ -5,7 +5,7 @@ date: "29/11/2018"
 output: html_document
 ---
 
-[Personal Email](davidtaylor222@msn.com) 
+[Personal Email](mailto:davidtaylor222@msn.com) 
 
 Please feel free to connect with me on linkedin : 
 [profile](https://www.linkedin.com/in/davidtaylor222/)
