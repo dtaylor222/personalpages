@@ -5,9 +5,11 @@ author: "David Taylor"
 
 ![me](images/dbt.jpg)
 
-This is my personal website created using RStudio.
+This is my personal website created using RStudio and GitHub
 
 Initially it will host my [CV](CV.html) as rendered from markdown.
+
+You can find a (very) breif bio [here](About_Me.html)
 
 I'll also be adding other things as they occur to me.
 Such as my very small 'R' example for a [linearmodel](linearmodel.html) with some noise

@@ -1,0 +1,17 @@
+---
+title: "About_Me"
+author: "David Taylor"
+output: html_document
+---
+
+I am based in the West End of my adopted City of Glasgow.
+
+![](images/kelvinbridgebnw.jpg)
+
+LIke most accountancy / data types I spend most of my professional life in Excel and VBA, but I also have an interest in more modern tools.
+
+I'm currently working on trying to get Outh2 client credentials flow working in VBA
+
+I did my Postgraaduate work in Instrumentation, where I spectaculary failed to get thin film anemometry to work in my wind tunnel experiments.
+
+I have a degree in Paper Science from back in the days when UMIST was still around and offering weird degrees to industrial types.
