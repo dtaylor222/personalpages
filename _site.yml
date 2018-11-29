@@ -16,4 +16,6 @@ navbar:
       href: CV.html
     - text: "linearmodel"
       href: linearmodel.html
+    - text: "Contact_Me"
+      href: Contact_Me.html
     
