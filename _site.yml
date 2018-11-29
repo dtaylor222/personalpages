@@ -8,7 +8,7 @@ output:
 navbar:  
   title: "David B. Taylor"
   left:
-    - text: "Repo"
+    - text: "Home"
       icon: fa-home
       href: index.html
   right:
@@ -20,6 +20,3 @@ navbar:
       href: Contact_Me.html
     - text: "Useful_Links"
       href: Useful_Links.html
-    - text: "Repo"
-      href: https://github.com/dtaylor222/personalpages
-    

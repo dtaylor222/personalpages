@@ -7,3 +7,4 @@ output: html_document
 
 Here a few links to resources that I have found useful: 
 
+[Github Repo for this site](https://github.com/dtaylor222/personalpages)
