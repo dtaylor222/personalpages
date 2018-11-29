@@ -1,7 +1,6 @@
 ---
 title: "Useful_Links"
 author: "David Taylor"
-date: "29/11/2018"
 output: html_document
 ---
 

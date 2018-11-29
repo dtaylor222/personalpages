@@ -14,11 +14,11 @@ navbar:
   right:
     - text: "CV"
       href: CV.html
-    - text: "About_Me"
+    - text: "About Me"
       href: About_Me.html
-    - text: "linearmodel"
+    - text: "linear model"
       href: linearmodel.html
-    - text: "Contact_Me"
+    - text: "Contact Me"
       href: Contact_Me.html
-    - text: "Useful_Links"
+    - text: "Useful Links"
       href: Useful_Links.html
