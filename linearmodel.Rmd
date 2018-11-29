@@ -29,6 +29,12 @@ plot(x,y) # replot the variables
 abline(z$coefficients) # add a line to plot to show the model's trendline
 ```
 
+So, despite our 'true' disctibution having an intercept of 4.5 and a slope of 2 
+we can see that the noise element has intruduced an error into the model:
+
+```{r}
+z$coefficients
+```
 
 For completeness lets take a look at the structure of the model: 
 
