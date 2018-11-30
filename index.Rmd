@@ -11,7 +11,7 @@ Initially it will host my [CV](CV.html) as rendered from markdown.
 
 You can find a (very) brief bio [here](About_Me.html)
 
-I am Currently open to employment opportunities.
+I am currently open to employment opportunities.
 [Contact details](Contact_Me.html)
 
 I'll also be adding other things as they occur to me.

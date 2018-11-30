@@ -7,13 +7,13 @@ I am based in the West End of my adopted City of Glasgow.
 
 ![](images/kelvinbridgebnw.jpg)  
 
-Like most suport professionals, I am somehwat of a Jack-of-all-trades when it comes to tech stuff.
+Like most suport professionals, I am somehwat of a Jack-of-all-trades when it comes to tech.
 
-Untill recently I my specialism was Crystal reports (It was for an accounting software firm), but I used loads of other stuff over the years to keep legacy systemns working well.
+Untill recently I my specialism was Crystal reports (It was for an accounting software firm), but I used loads of other stuff over the years to keep Linux systemns working well.
 
-I have been a programmer, but found direct customer contact more rewarding.
+I have been a developer, but found direct customer contact more rewarding so moved into support.
 
-I do have an interest in more modern tools like 'R' and you might see me at tech meetups and the like.
+I maintain an interest in modern tools like 'R' and you might see me at tech meetups and the like.
 
 I'm currently working on trying to get OAuth2 client credentials flow working in VBA, as its widely used in the domain I'm targeting and I used to do my instrumentation coding and data capture in Excel many years ago.
 
