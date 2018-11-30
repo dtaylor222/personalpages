@@ -1,6 +1,5 @@
 ---
-title: "About_Me"
-author: "David Taylor"
+title: "About Me"
 output: html_document
 ---
 
