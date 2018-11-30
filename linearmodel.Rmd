@@ -29,8 +29,8 @@ plot(x,y) # replot the variables
 abline(z$coefficients) # add a line to plot to show the model's trendline
 ```
 
-So, given our 'true' disctibution having an intercept of 4.5 and a slope of 2 
-we can see how close the model got with the noise added : 
+So, given our 'true' disctibution has an intercept of 4.5 and a slope of 2 
+we can see how close the model got with its sampling and the noise added : 
 
 ```{r}
 z$coefficients

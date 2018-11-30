@@ -12,13 +12,13 @@ navbar:
       icon: fa-home
       href: index.html
   right:
-    - text: "CV"
-      href: CV.html
     - text: "About Me"
       href: About_Me.html
-    - text: "linear model"
-      href: linearmodel.html
+    - text: "CV"
+      href: CV.html
     - text: "Contact Me"
       href: Contact_Me.html
     - text: "Useful Links"
       href: Useful_Links.html
+    - text: "linear model"
+      href: linearmodel.html

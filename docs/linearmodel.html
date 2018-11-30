@@ -194,19 +194,19 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="CV.html">CV</a>
-</li>
-<li>
   <a href="About_Me.html">About Me</a>
 </li>
 <li>
-  <a href="linearmodel.html">linear model</a>
+  <a href="CV.html">CV</a>
 </li>
 <li>
   <a href="Contact_Me.html">Contact Me</a>
 </li>
 <li>
   <a href="Useful_Links.html">Useful Links</a>
+</li>
+<li>
+  <a href="linearmodel.html">linear model</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -236,7 +236,7 @@ y &lt;- 4.5 + 2*x + e # Creates data set intercept 4.5, gradient 2.0 add noise</
 plot(x,y) # replot the variables
 abline(z$coefficients) # add a line to plot to show the model&#39;s trendline</code></pre>
 <p><img src="linearmodel_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-<p>So, given our ‘true’ disctibution having an intercept of 4.5 and a slope of 2 we can see how close the model got with the noise added :</p>
+<p>So, given our ‘true’ disctibution has an intercept of 4.5 and a slope of 2 we can see how close the model got with its sampling and the noise added :</p>
 <pre class="r"><code>z$coefficients</code></pre>
 <pre><code>## (Intercept)           x 
 ##    4.343459    1.958697</code></pre>
