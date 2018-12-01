@@ -3,7 +3,7 @@ title: "My Personal Pages"
 author: "David Taylor"
 ---
 
-![me](images/dbt.jpg)
+![me](images/me2.jpg)
 
 This is my personal website created using RStudio and GitHub
 
